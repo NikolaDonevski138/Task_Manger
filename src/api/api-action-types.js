@@ -1,0 +1,3 @@
+export const API_CALL_FINISHED = 'API_CALL_FINISHED';
+export const API_CALL_ERROR = 'API_CALL_ERROR';
+export const API_CALL_STARTED = 'API_CALL_STARTED';
